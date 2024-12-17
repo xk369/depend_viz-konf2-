@@ -25,8 +25,6 @@
 <img width="1073" alt="tests" src="https://github.com/user-attachments/assets/68969bce-99b8-4d89-82cc-8398fbb5d1e4" />
 
 
-# Структура файлов
-<img width="344" alt="Снимок экрана 2024-12-18 в 12 45 46 AM" src="https://github.com/user-attachments/assets/7e3965a6-66db-470f-9fb3-9d910c6bb09e" />
 
 
 
