@@ -22,7 +22,8 @@
 
 # Результат тестирования
 
-<img width="1073" alt="tests" src="https://github.com/user-attachments/assets/68969bce-99b8-4d89-82cc-8398fbb5d1e4" />
+<img width="1361" alt="image" src="https://github.com/user-attachments/assets/de3728bc-fcff-4a85-b97b-818125f468e3" />
+
 
 
 
